@@ -101,7 +101,7 @@ metodos.eliminar(Integer.parseInt(ventana.getJt_FichaEliminar()));
         
         }
       
-                              if(e.getActionCommand().equals("Menor a mayot"))
+                              if(e.getActionCommand().equals("Reporte"))
         {
                 
             ventana.imprimir( metodos.reportes());
